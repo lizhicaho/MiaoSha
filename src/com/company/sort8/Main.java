@@ -2,7 +2,7 @@ package com.company.sort8;
 
 public class Main {
     public static void main(String[] args){
-        int array[] = { 8, 5, 36, 58, 24, 62, 12, 9, 35, 87, 96, 58, 25,88,98 };
+        int array[] = {  5, 36, 58, 24, 62, 12, 9, 35, 87, 96, 58, 25,88,98 };
         //插入
        /* for (int i=1;i< array.length;i++){
             int val=array[i];
